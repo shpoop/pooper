@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shpoop\\": "src/",
+            "Shpoop\\": "src/"
         }
     },
     "minimum-stability": "stable",
