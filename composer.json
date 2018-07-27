@@ -1,5 +1,5 @@
 {
-    "name": "mojojo/shpoop",
+    "name": "shpoop/pooper",
     "description": "A package to wrap laravel eloquent dependancy in one.",
     "type": "library",
     "license": "MIT",
