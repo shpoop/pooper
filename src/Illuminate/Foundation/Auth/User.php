@@ -3,6 +3,4 @@ namespace Shpoop\Illuminate\Foundation\Auth;
 
 use Illuminate\Foundation\Auth\User;
 
-class User extends User
-{
-}
+class User extends User {}
