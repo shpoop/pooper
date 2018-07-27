@@ -1,6 +1,6 @@
 <?php
 namespace Shpoop\Illuminate\Foundation\Auth;
 
-use Illuminate\Foundation\Auth\User;
+use Illuminate\Foundation\Auth\User as Authenticable;
 
-class User extends User {}
+class User extends Authenticable {}
